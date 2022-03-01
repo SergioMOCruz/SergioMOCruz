@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiomocruz&label=Profile%20views&color=0e75b6&style=flat" alt="sergiomocruz" /> </p>
 
-- 🔭 I’m currently working on **RideHub, VillaLaura**
+- 🔭 I’m currently working on **ColorPicker**
 
 - 🌱 I’m currently learning **NodeJS**
 
