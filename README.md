@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 📄 [Resume](https://shorturl.at/ilCO2)
+- 📄 [Resume](https://drive.google.com/file/d/1rWgHXNgnHBouJ1EcS1BODsqQCoOBPQwn/view?usp=sharing)
 
 - ⚡ Fun fact **I commit faster than Roadrunner from Warner Brothers**
 
