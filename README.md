@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **ColorPicker**
 
-- 🌱 I’m currently learning **NodeJS**
-
-- 📄 [Resume](https://drive.google.com/file/d/1rWgHXNgnHBouJ1EcS1BODsqQCoOBPQwn/view?usp=sharing)
+- 🌱 I’m currently learning **Angular, PHP, Wordpress**
 
 - ⚡ Fun fact **I commit faster than Roadrunner from Warner Brothers**
 
