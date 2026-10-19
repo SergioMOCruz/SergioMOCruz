@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiomocruz&label=Profile%20views&color=0e75b6&style=flat" alt="sergiomocruz" /> </p>
 
-- 🔭 I’m currently working as **QA Tester & Developer @ArealMedia**
-
-- 🌱 I’m currently learning **Angular, PHP, Wordpress**
+- 🔭 I’m currently working as **Software Developer @Fiducial**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
